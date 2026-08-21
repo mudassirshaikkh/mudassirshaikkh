@@ -87,6 +87,12 @@ things like incident detection pipelines, real-time moderation services, and ent
   </picture>
 </p>
 
+<!-- Detailed metrics card — renders only after you run .github/workflows/metrics.yml once
+     (and set the METRICS_TOKEN secret). Delete this block if you skip that setup. -->
+<p align="center">
+  <img alt="GitHub metrics" src="https://raw.githubusercontent.com/mudassirshaikkh/mudassirshaikkh/main/github-metrics.svg">
+</p>
+
 <!-- Snake animation — renders only after you run .github/workflows/snake.yml once.
      Delete this whole block if you'd rather not set it up. -->
 <p align="center">
