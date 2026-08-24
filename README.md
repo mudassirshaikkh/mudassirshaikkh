@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/mudassirshaikkh/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:smudassir8345@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-smudassir8345@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/mudassirshaikkh/mudassirshaikkh/blob/main/SE%20Resume.pdf"><img alt="Resume" src="https://img.shields.io/badge/Resume-PDF-2F855A?style=for-the-badge&logo=readdotcv&logoColor=white"></a>
+  <a href="https://github.com/mudassirshaikkh/mudassirshaikkh/blob/main/main_resume.pdf"><img alt="Resume" src="https://img.shields.io/badge/Resume-PDF-2F855A?style=for-the-badge&logo=readdotcv&logoColor=white"></a>
   <img alt="Open to roles" src="https://img.shields.io/badge/Open%20to-SDE%20%2F%20Backend%20%2F%20Cloud%20Internships%20%26%20New%20Grad-6E56CF?style=for-the-badge">
 </p>
 
